@@ -3,6 +3,7 @@ module.exports = {
     title: "My First Gatsby Site",
   },
   plugins: [
+	"gatsby-transformer-sharp",
 	"gatsby-plugin-image",
 	"gatsby-plugin-sharp",
 	{
